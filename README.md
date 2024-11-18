@@ -43,24 +43,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
 
----
 
-## 🏆 Coding Platform Stats  
-
-### 💻 GeeksforGeeks  
-![GFG Stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=patilpr8kv)  
-
-### 🧠 LeetCode  
-![LeetCode Stats](https://leetcode.com/u/Prajakta2745)
-
-### 🔑 HackerRank  
-![HackerRank Stats](https://img.shields.io/badge/HackerRank-Green?style=flat-square&logo=hackerrank&logoColor=white)  
-*Profile*: [HackerRank Profile](https://www.hackerrank.com/patilpb2745)  
-
-### 🍴 CodeChef  
-![CodeChef Stats](https://cp-logo.vercel.app/codechef/prajakta_2728)  
-
----
 
 ## 🔨 Tools I Use  
 - *Languages*: C, C++, Python, JavaScript, HTML, CSS  
