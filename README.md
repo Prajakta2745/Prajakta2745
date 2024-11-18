@@ -33,17 +33,17 @@
 ## 🏆 Coding Platform Stats  
 
 ### 💻 GeeksforGeeks  
-![GFG Stats](https://www.geeksforgeeks.org/user/patilpr8kv/)  
+![GFG Stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=your_gfg_username)  
 
 ### 🧠 LeetCode  
 ![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/Prajakta2745)  
 
 ### 🔑 HackerRank  
 ![HackerRank Stats](https://img.shields.io/badge/HackerRank-Green?style=flat-square&logo=hackerrank&logoColor=white)  
-*Profile*: [HackerRank Profile](https://www.hackerrank.com/@patilpb2745)  
+*Profile*: [HackerRank Profile](https://www.hackerrank.com/patilpb2745)  
 
 ### 🍴 CodeChef  
-![CodeChef Stats](https://cp-logo.vercel.app/codechef/prajakta_2728)  
+![CodeChef Stats](https://cp-logo.vercel.app/codechef/your_codechef_username)  
 
 ---
 
