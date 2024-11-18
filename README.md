@@ -33,7 +33,7 @@
 <a href="https://stackoverflow.com/users/user:23476210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:23476210" height="30" width="40" /></a>
 <a href="https://instagram.com/_jay_799" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_jay_799" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/jaycoder_799" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jaycoder_799" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jjadhav799" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jjadhav799" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Prajakta2745" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Prajakta2745" height="30" width="40" /></a>
 </p>
 
 
