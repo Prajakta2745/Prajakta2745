@@ -33,7 +33,7 @@
 ## 🏆 Coding Platform Stats  
 
 ### 💻 GeeksforGeeks  
-![GFG Stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=patilpr8kv)  
+![GFG Stats](https://www.geeksforgeeks.org/user/patilpr8kv/)  
 
 ### 🧠 LeetCode  
 ![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/Prajakta2745)  
