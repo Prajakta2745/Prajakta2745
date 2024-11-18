@@ -49,7 +49,7 @@
 ![GFG Stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=patilpr8kv)  
 
 ### 🧠 LeetCode  
-![LeetCode Stats](https://leetcode.com/u/Prajakta2745/)
+![LeetCode Stats](https://leetcode.com/u/Prajakta2745)
 
 ### 🔑 HackerRank  
 ![HackerRank Stats](https://img.shields.io/badge/HackerRank-Green?style=flat-square&logo=hackerrank&logoColor=white)  
